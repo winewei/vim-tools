@@ -10,3 +10,5 @@ cat ./go-vim-ide/go-vimrc > ~/.vimrc
 # Install vim plugins
 :PlugInstall
 ```
+# Thanks
+[broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide)
